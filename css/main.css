@@ -1,0 +1,11 @@
+.selector {
+  curser: pointer;
+  height: 100px;
+  width: 100px;
+  cursor: pointer;
+}
+
+.red {color: red;}
+.green {color:green;}
+
+
